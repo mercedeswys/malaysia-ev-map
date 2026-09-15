@@ -1,0 +1,906 @@
+[
+  {
+    "name": "1 Desa Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1022,
+    "lng": 101.6853
+  },
+  {
+    "name": "1 Razak Mansion",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1068,
+    "lng": 101.7037
+  },
+  {
+    "name": "100 Residency",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1995,
+    "lng": 101.7110
+  },
+  {
+    "name": "222 Residency",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1989,
+    "lng": 101.7098
+  },
+  {
+    "name": "28 Dutamas",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1855,
+    "lng": 101.6552
+  },
+  {
+    "name": "3 Kia Peng Apartment",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1514,
+    "lng": 101.7111
+  },
+  {
+    "name": "6 Capsquare",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1539,
+    "lng": 101.7003
+  },
+  {
+    "name": "99 Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2284,
+    "lng": 101.6662
+  },
+  {
+    "name": "Aira Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1511,
+    "lng": 101.6582
+  },
+  {
+    "name": "Andalucia Pantai Hillpark",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1082,
+    "lng": 101.6644
+  },
+  {
+    "name": "Andes Condo Villa",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0567,
+    "lng": 101.6438
+  },
+  {
+    "name": "Antah Tower",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1795,
+    "lng": 101.6738
+  },
+  {
+    "name": "Aria Luxury Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1557,
+    "lng": 101.7178
+  },
+  {
+    "name": "Astrea Mont Kiara",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1702,
+    "lng": 101.6508
+  },
+  {
+    "name": "Bayu Angkasa",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1417,
+    "lng": 101.6703
+  },
+  {
+    "name": "Binjai on the Park",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1542,
+    "lng": 101.7153
+  },
+  {
+    "name": "Bistari Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1678,
+    "lng": 101.6931
+  },
+  {
+    "name": "Boulevard Business Park",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2052,
+    "lng": 101.6789
+  },
+  {
+    "name": "Camellia Serviced Suites",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1119,
+    "lng": 101.6664
+  },
+  {
+    "name": "Casa Vista",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1436,
+    "lng": 101.6698
+  },
+  {
+    "name": "Continew Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1345,
+    "lng": 101.7144
+  },
+  {
+    "name": "Core Residence @ TRX",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1418,
+    "lng": 101.7197
+  },
+  {
+    "name": "Court 28",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1812,
+    "lng": 101.6872
+  },
+  {
+    "name": "Covillea Bukit Jalil",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0569,
+    "lng": 101.6922
+  },
+  {
+    "name": "Denai Sutera Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0489,
+    "lng": 101.6558
+  },
+  {
+    "name": "Desa Damansara Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1478,
+    "lng": 101.6601
+  },
+  {
+    "name": "Desa Green",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1058,
+    "lng": 101.6950
+  },
+  {
+    "name": "Desa Permai",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1028,
+    "lng": 101.6832
+  },
+  {
+    "name": "Desa Putra Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2062,
+    "lng": 101.7411
+  },
+  {
+    "name": "Dua Residency",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1561,
+    "lng": 101.7198
+  },
+  {
+    "name": "Endah Promenade Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0642,
+    "lng": 101.6961
+  },
+  {
+    "name": "Endah Villa Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0658,
+    "lng": 101.6948
+  },
+  {
+    "name": "Gallery U-Thant",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1548,
+    "lng": 101.7289
+  },
+  {
+    "name": "Glomac Damansara Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1348,
+    "lng": 101.6288
+  },
+  {
+    "name": "Green Avenue Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0588,
+    "lng": 101.6781
+  },
+  {
+    "name": "G Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1508,
+    "lng": 101.7348
+  },
+  {
+    "name": "Jalil Damai",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0582,
+    "lng": 101.6738
+  },
+  {
+    "name": "Laman Ceylon",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1488,
+    "lng": 101.7032
+  },
+  {
+    "name": "Lanson Place Bukit Ceylon",
+    "category": "Hotels",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1481,
+    "lng": 101.7042
+  },
+  {
+    "name": "Lotus Cheras",
+    "category": "Carparks",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0998,
+    "lng": 101.7388
+  },
+  {
+    "name": "LUMINA KIARA CONDOMINIUM",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1722,
+    "lng": 101.6538
+  },
+  {
+    "name": "Madu Mas Apartment",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1892,
+    "lng": 101.7188
+  },
+  {
+    "name": "Maju Link",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0618,
+    "lng": 101.7108
+  },
+  {
+    "name": "Maju Tower",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1592,
+    "lng": 101.6968
+  },
+  {
+    "name": "Menara AIMS",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1498,
+    "lng": 101.7088
+  },
+  {
+    "name": "Menara Binjai",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1588,
+    "lng": 101.7168
+  },
+  {
+    "name": "Menara Hartamas",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1618,
+    "lng": 101.6508
+  },
+  {
+    "name": "Menara Technip Energies",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1492,
+    "lng": 101.7182
+  },
+  {
+    "name": "Menjalara 18 Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1932,
+    "lng": 101.6328
+  },
+  {
+    "name": "Mercu Jalil",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0428,
+    "lng": 101.6618
+  },
+  {
+    "name": "Midfield 2",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0918,
+    "lng": 101.6988
+  },
+  {
+    "name": "Mont’ Kiara Sophia Condominum",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1668,
+    "lng": 101.6518
+  },
+  {
+    "name": "myHabitat Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1582,
+    "lng": 101.7192
+  },
+  {
+    "name": "One KL",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1562,
+    "lng": 101.7128
+  },
+  {
+    "name": "Pantai Panorama Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1112,
+    "lng": 101.6628
+  },
+  {
+    "name": "Park Place @ ParkCity TownCenter",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1878,
+    "lng": 101.6288
+  },
+  {
+    "name": "Park Seven Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1528,
+    "lng": 101.7158
+  },
+  {
+    "name": "Pavilion Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1488,
+    "lng": 101.7138
+  },
+  {
+    "name": "Pavilion Suites",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1482,
+    "lng": 101.7122
+  },
+  {
+    "name": "Prima Alam Damai Block A",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0718,
+    "lng": 101.7438
+  },
+  {
+    "name": "Prima Alam Damai Block B",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0722,
+    "lng": 101.7442
+  },
+  {
+    "name": "Prisma Cheras Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0988,
+    "lng": 101.7288
+  },
+  {
+    "name": "PV15 Platinum Lake Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2028,
+    "lng": 101.7188
+  },
+  {
+    "name": "Residensi Bintang",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0538,
+    "lng": 101.6688
+  },
+  {
+    "name": "Residensi Henge",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2188,
+    "lng": 101.6468
+  },
+  {
+    "name": "Residensi PV9",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.2162,
+    "lng": 101.7288
+  },
+  {
+    "name": "Residensi The Address",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0988,
+    "lng": 101.6888
+  },
+  {
+    "name": "Richmond Kiara 3",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1788,
+    "lng": 101.6518
+  },
+  {
+    "name": "Rivercity Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1818,
+    "lng": 101.6818
+  },
+  {
+    "name": "Royal Domain Sri Putramas 11",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1828,
+    "lng": 101.6718
+  },
+  {
+    "name": "Royal Regent",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1838,
+    "lng": 101.6708
+  },
+  {
+    "name": "Royalle Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1878,
+    "lng": 101.6528
+  },
+  {
+    "name": "Sastra U-Thant Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1568,
+    "lng": 101.7282
+  },
+  {
+    "name": "Saville @ The Park bangsar",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1028,
+    "lng": 101.6628
+  },
+  {
+    "name": "Secoya Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1018,
+    "lng": 101.6618
+  },
+  {
+    "name": "Semua House",
+    "category": "Carparks",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1528,
+    "lng": 101.6968
+  },
+  {
+    "name": "Sentul Point Apartments A",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1928,
+    "lng": 101.6888
+  },
+  {
+    "name": "Sentul Point Apartments B",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1932,
+    "lng": 101.6892
+  },
+  {
+    "name": "Sentul Point Apartments C",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1936,
+    "lng": 101.6896
+  },
+  {
+    "name": "Seri Ampang Hilir Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1518,
+    "lng": 101.7338
+  },
+  {
+    "name": "Seri Duta 1",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1558,
+    "lng": 101.6738
+  },
+  {
+    "name": "Sky Vista Residency",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1188,
+    "lng": 101.7328
+  },
+  {
+    "name": "Sofiya Residensi",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1898,
+    "lng": 101.6298
+  },
+  {
+    "name": "Southlink",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1108,
+    "lng": 101.6638
+  },
+  {
+    "name": "South View Apartments",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1128,
+    "lng": 101.6648
+  },
+  {
+    "name": "Sri Angsana Hilir",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1428,
+    "lng": 101.7488
+  },
+  {
+    "name": "Sri Emas Condo",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1428,
+    "lng": 101.7058
+  },
+  {
+    "name": "Sri Bukit Tunku Condo",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1628,
+    "lng": 101.6888
+  },
+  {
+    "name": "Stonor 3",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1538,
+    "lng": 101.7188
+  },
+  {
+    "name": "Suasana Bangsar",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1288,
+    "lng": 101.6718
+  },
+  {
+    "name": "Suasana Lumayan",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0998,
+    "lng": 101.7188
+  },
+  {
+    "name": "Syed Kechik Foundation Building",
+    "category": "Workplace",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1418,
+    "lng": 101.6688
+  },
+  {
+    "name": "Suria Jelatek Residence",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1618,
+    "lng": 101.7348
+  },
+  {
+    "name": "Sutera Maya Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0788,
+    "lng": 101.6618
+  },
+  {
+    "name": "The CapSquare Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1542,
+    "lng": 101.7008
+  },
+  {
+    "name": "The Hamilton",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0888,
+    "lng": 101.7388
+  },
+  {
+    "name": "The Hamstead",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0788,
+    "lng": 101.7128
+  },
+  {
+    "name": "The Hermington",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0888,
+    "lng": 101.6988
+  },
+  {
+    "name": "The Oval – East Tower",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1558,
+    "lng": 101.7168
+  },
+  {
+    "name": "The Riyang Happy Garden",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0828,
+    "lng": 101.6888
+  },
+  {
+    "name": "The Saffron Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1808,
+    "lng": 101.6918
+  },
+  {
+    "name": "The Sentral Residences",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1348,
+    "lng": 101.6868
+  },
+  {
+    "name": "The Trees",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1688,
+    "lng": 101.6288
+  },
+  {
+    "name": "The Sky Residence Shamelin",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1288,
+    "lng": 101.7348
+  },
+  {
+    "name": "Tivoli Villas",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1448,
+    "lng": 101.6688
+  },
+  {
+    "name": "TREEZ JALIL RESIDENCE",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0568,
+    "lng": 101.6748
+  },
+  {
+    "name": "TTDI Plaza",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1388,
+    "lng": 101.6288
+  },
+  {
+    "name": "Verdana North Kiara",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1828,
+    "lng": 101.6528
+  },
+  {
+    "name": "Villa Flora Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1418,
+    "lng": 101.6278
+  },
+  {
+    "name": "Villa Makmur",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1818,
+    "lng": 101.6588
+  },
+  {
+    "name": "Villa Putra Condominium",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1668,
+    "lng": 101.6928
+  },
+  {
+    "name": "Vista Damai Condominium @ KLCC",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.1618,
+    "lng": 101.7188
+  },
+  {
+    "name": "Vista Komanwel B",
+    "category": "Apartments and Condominiums",
+    "operator": "Time Charge and Go",
+    "power": "",
+    "lat": 3.0588,
+    "lng": 101.6918
+  }
+]

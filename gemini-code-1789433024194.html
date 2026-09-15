@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Malaysia EV Charger Map</title>
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+    #map {
+      height: 100vh;
+      width: 100vw;
+    }
+    .header-box {
+      position: absolute;
+      top: 10px;
+      left: 50px;
+      z-index: 1000;
+      background: white;
+      padding: 10px 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header-box">
+    <h3 style="margin:0;">⚡ Malaysia EV Charging Map</h3>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    // Initialize map centered on Peninsular Malaysia
+    const map = L.map('map').setView([4.2105, 101.9758], 7);
+
+    // Add free OpenStreetMap tile layer
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Fetch charger data from chargers.json
+    fetch('./chargers.json')
+      .then(response => response.json())
+      .then(data => {
+        data.forEach(charger => {
+          // Add marker for each location
+          L.marker([charger.lat, charger.lng])
+            .addTo(map)
+            .bindPopup(`
+              <b>${charger.name}</b><br>
+              <b>Operator:</b> ${charger.operator}<br>
+              <b>Speed:</b> ${charger.power}
+            `);
+        });
+      })
+      .catch(err => console.error("Error loading EV chargers:", err));
+  </script>
+</body>
+</html>
